@@ -30,7 +30,7 @@ Here's what you can do with ExamEdu:
 
 * **Smart Reports**: Export detailed results to Excel with charts showing class performance, individual progress, and question difficulty analysis.
 
-##  Architecture
+## 🛠 Architecture
 
 ### System Architecture
 <img width="50%" height="50%" alt="system-architecture-diagram" src="https://github.com/user-attachments/assets/2790d338-ad8b-46ea-ab77-658bb475777a" />
